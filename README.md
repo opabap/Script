@@ -7,3 +7,4 @@ js文件收集与备份
 |Drafts|[链接地址](https://raw.githubusercontent.com/Fedlimit/Script/main/Drafts.js)|[raw参考链接](https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Drafts.js)|[repo参考链接](https://github.com/89996462/Quantumult-X/blob/main/ycdz/Drafts.js)|Drafts解锁订阅
 |Fantastical|[链接地址](https://raw.githubusercontent.com/Fedlimit/Script/main/Fantastical.js)| | |Fantastical日历app解锁订阅
 |JD_Price|[链接地址](https://raw.githubusercontent.com/Fedlimit/Script/main/JD_Price.js)|[raw参考链接](https://raw.githubusercontent.com/zwf234/rules/master/js/jd_price.js) |[repo参考链接](https://github.com/zwf234/rules/blob/master/js/jd_price.js)|京东历史价格
+|PDFExpert|[链接地址](https://raw.githubusercontent.com/Fedlimit/Script/main/PDFExpert.js)|[raw参考链接](https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/PDFExpert.js)|[repo参考链接](https://github.com/89996462/Quantumult-X/blob/main/ycdz/PDFExpert.js)|Documents文件管理器+解锁订阅
