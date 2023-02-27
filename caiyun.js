@@ -3,12 +3,12 @@
  * hostname = biz.caiyunapp.com	
  * 	
  * Surge：
-[Script]	
-彩云天气SVIP = type=http-response,requires-body=1,max-size=0,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/Fedlimit/Script/main/CaiYun.js
+[Script]
+彩云天气SVIP = type=http-response,requires-body=1,max-size=0,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/Fedlimit/Script/main/caiyun.js
  * 
  * Loon：
-[Script]	
-http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/Fedlimit/Script/main/CaiYun.js,requires-body=1, tag=彩云天气SVIP	
+[Script]
+http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/Fedlimit/Script/main/caiyun.js,requires-body=1, tag=彩云天气SVIP
  */	
  
 
